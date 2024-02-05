@@ -1,0 +1,7 @@
+C:\Users\dmdik\Desktop\SQL\SQL\bin\Debug\FEYZAGENÇAY.exe.config
+C:\Users\dmdik\Desktop\SQL\SQL\bin\Debug\FEYZAGENÇAY.exe
+C:\Users\dmdik\Desktop\SQL\SQL\bin\Debug\FEYZAGENÇAY.pdb
+C:\Users\dmdik\Desktop\SQL\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+C:\Users\dmdik\Desktop\SQL\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\dmdik\Desktop\SQL\SQL\obj\Debug\FEYZAGENÇAY.exe
+C:\Users\dmdik\Desktop\SQL\SQL\obj\Debug\FEYZAGENÇAY.pdb

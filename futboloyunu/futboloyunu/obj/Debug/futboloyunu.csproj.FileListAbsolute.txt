@@ -1,0 +1,10 @@
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\bin\Debug\futboloyunu.exe.config
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\bin\Debug\futboloyunu.exe
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\bin\Debug\futboloyunu.pdb
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.csproj.AssemblyReference.cache
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.Form1.resources
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.Properties.Resources.resources
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.csproj.GenerateResource.cache
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.csproj.CoreCompileInputs.cache
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.exe
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\futboloyunu\futboloyunu\obj\Debug\futboloyunu.pdb

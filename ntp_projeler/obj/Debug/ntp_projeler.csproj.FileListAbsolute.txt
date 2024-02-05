@@ -1,0 +1,7 @@
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\bin\Debug\ntp_projeler.exe.config
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\bin\Debug\ntp_projeler.exe
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\bin\Debug\ntp_projeler.pdb
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\obj\Debug\ntp_projeler.csproj.AssemblyReference.cache
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\obj\Debug\ntp_projeler.csproj.CoreCompileInputs.cache
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\obj\Debug\ntp_projeler.exe
+C:\Users\dmdik\Desktop\Yazılım\C#\ntp_projeler\ntp_projeler\obj\Debug\ntp_projeler.pdb
